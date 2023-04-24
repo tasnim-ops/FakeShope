@@ -1,0 +1,35 @@
+.circle {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+  }
+  
+  .circle-1 {
+    background-color: rgb(143, 206, 128);
+  }
+  
+  .circle-2 {
+    background-color: rgba(241, 195, 234, 0.973);
+  }
+  
+  .circle-3 {
+    background-color: rgb(240, 214, 102);
+  }
+  
+  .circle-4 {
+    background-color: rgb(147, 213, 233);
+  }
+  
+  .grid-desc {
+    text-align: center;
+    margin-top: 1.5rem;
+  }
+  .order {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+  }

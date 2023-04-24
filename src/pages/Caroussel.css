@@ -1,0 +1,17 @@
+.carousel-container {
+    max-width: 400px; /* Remplacez 800px par la largeur souhaitée */
+    margin: 0 auto; /* Pour centrer le conteneur horizontalement */
+    background-color: white; 
+  }
+
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: black;
+  }
+  
+  .carousel-indicators li.active {
+    background-color: black;
+  }
+  .carousel-caption {
+    margin-top: 100px;
+  }

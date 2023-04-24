@@ -1,0 +1,19 @@
+.image-wrapper {
+    position: relative;
+  }
+  
+  .image-text {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: white;
+    padding: 5px;
+    font-size: 1.5rem;
+  }
+
+  .clear{
+    position: absolute;
+    top: 20px;
+    right: 15px;
+    margin: 20px 0;
+  }
