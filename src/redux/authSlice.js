@@ -4,7 +4,7 @@ const initialState = {
     isLoading: false,
     error:null
 }
-//test for git
+//test for git 
 const authSlice = createSlice({
     name:'auth',
     initialState,
